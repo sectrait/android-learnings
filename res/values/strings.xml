@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLITEPOC</string>
+    <string name="xml_tag_root">Groups</string>
+    <string name="xml_tag_ItemGroup">ItemGroup</string>
+    <string name="xml_tag_Item">Item</string>
+    <string name="xml_tag_ItemGroup_Items">Items</string>
+    <string name="xml_tag_id">id</string>
+    <string name="xml_tag_name">Name</string>
+    <string name="xml_filename">groups.xml</string>
+</resources>
